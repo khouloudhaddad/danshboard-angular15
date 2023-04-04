@@ -47,31 +47,3 @@ Module Loaders</p>
 <h5>Compile</h5>
 
 <p>The compiler is still in beta at this point. You may find it incompatible with some transpilers or other build tools. If you’re using a different tool, such as WebPack, you should be able to use it again with Angular 15. You’ll need to upgrade to use it again. If you’re doing development outside your project folder, then there will be no need to do anything else when upgrading from Angular 14 to 15.</p>
-
-# AngularDashboard
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

@@ -47,4 +47,3 @@ Module Loaders</p>
 <h5>Compile</h5>
 
 <p>The compiler is still in beta at this point. You may find it incompatible with some transpilers or other build tools. If you’re using a different tool, such as WebPack, you should be able to use it again with Angular 15. You’ll need to upgrade to use it again. If you’re doing development outside your project folder, then there will be no need to do anything else when upgrading from Angular 14 to 15.</p>
-
